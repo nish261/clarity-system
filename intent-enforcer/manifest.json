@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Intent Enforcer",
+  "version": "3.3",
+  "permissions": ["tabs", "scripting", "storage"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Manage Blocked Sites"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
