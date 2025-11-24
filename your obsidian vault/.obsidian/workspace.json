@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "f1b322a7452ad467",
+    "type": "split",
+    "children": [
+      {
+        "id": "6436af9e3c9e174f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "475633b98408fa6e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5. References/Bhagavad-Gita As It Is (Original 1972 Edition) With Pictures (A. C. Bhaktivedanta Swami Prabhupada) (Z-Library).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Bhagavad-Gita As It Is (Original 1972 Edition) With Pictures (A. C. Bhaktivedanta Swami Prabhupada) (Z-Library)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70cc98c3bbeb7f4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "03e31c4f7f48ce70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aee1acf8322d4706",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "94a05b3d8bbfdd8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef16426fadf6d613",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99ea6bb422290856",
+    "type": "split",
+    "children": [
+      {
+        "id": "04af16698856f538",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f5f1184bd3286e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. References/Bhagavad-Gita As It Is (Original 1972 Edition) With Pictures (A. C. Bhaktivedanta Swami Prabhupada) (Z-Library).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bhagavad-Gita As It Is (Original 1972 Edition) With Pictures (A. C. Bhaktivedanta Swami Prabhupada) (Z-Library)"
+            }
+          },
+          {
+            "id": "29f57348d7e03784",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Tasks/2025-11-24-132338.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-11-24-132338"
+            }
+          },
+          {
+            "id": "b377dd4f913f6fba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "185e4670ede6dda3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6.  Main Notes/Business Ideas/Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "aee1acf8322d4706",
+  "lastOpenFiles": [
+    "5. References/Scientific Advertising CH.pdf",
+    "2. Journal/Eat food - 2025-11-24.md",
+    "3. Tasks/2025-11-24.md",
+    "3. Tasks/2025-11-24-133012.md",
+    "3. Tasks/2025-11-24-132338.md",
+    "3. Tasks/2025-11-24-132923.md",
+    "5. References/Bhagavad-Gita As It Is (Original 1972 Edition) With Pictures (A. C. Bhaktivedanta Swami Prabhupada) (Z-Library).pdf",
+    "3. Tasks/2025-11-24-132337.md",
+    "3. Tasks/2025-11-24-132336.md",
+    "3. Tasks/2025-11-24-132335.md",
+    "3. Tasks/2025-11-24-132334.md",
+    "3. Tasks/2025-11-24-132333.md",
+    "3. Tasks/2025-11-24-132332.md",
+    "3. Tasks/2025-11-24-132331.md",
+    "3. Tasks/2025-11-24-132330.md",
+    "3. Tasks/2025-11-24-132329.md",
+    "Bhagavad-Gita As It Is (Original 1972 Edition) With Pictures (A. C. Bhaktivedanta Swami Prabhupada) (Z-Library).pdf",
+    "5. References/Untitled.md",
+    "7. Templates/Untitled.md",
+    "5. References/Untitled 1.md",
+    "1. Business/Icecream - 2025-11-24.md",
+    "6. References/Hello - 2025-11-24.md",
+    "6. References",
+    "5. References/Scientific Advertising by Claude Hopkins.md",
+    "4. Notes/Quick Note - 2025-11-24.md",
+    "5. References/Untitled",
+    "1. Business/Work hard - 2025-11-24.md",
+    "1. Business/crea - 2025-11-24.md",
+    "2. Journal/Money - 2025-11-24.md",
+    "2. Journal/Waht I did today - 2025-11-24.md",
+    "2. Journal",
+    "4. Notes",
+    "3. Tasks",
+    "1. Business",
+    "Organisation",
+    "Untitled.canvas",
+    "6.  Main Notes/Business Ideas/Untitled.canvas",
+    "Pasted image 20250917203002.png",
+    "Pasted image 20250917175356.png",
+    "Pasted image 20250917175217.png",
+    "Pasted image 20250917175058.png",
+    "Untitled 1.canvas"
+  ]
+}

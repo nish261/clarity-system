@@ -1,0 +1,27 @@
+{
+  "audio-recorder:start": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "workspace:new-tab": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
+}
