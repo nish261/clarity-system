@@ -6,6 +6,7 @@ This repository contains a personal collection of Raycast scripts and an Obsidia
 
 - **Raycast Scripts**: A set of scripts to streamline common tasks.
 - **Obsidian Vault**: A pre-configured vault for note-taking and personal knowledge management.
+- **Intent Enforcer**: A web-related application or browser extension.
 
 ---
 
@@ -57,3 +58,15 @@ The vault is organized with the following folders:
 -   **`5. References`**: For storing reference materials.
 -   **`6. Tags`**: For organizing notes with tags.
 -   **`7. Templates`**: For reusable note templates.
+
+---
+
+## Intent Enforcer
+
+### Location
+
+The `intent-enforcer` application is located in the root directory of this repository.
+
+### Description
+
+This directory contains files (`background.js`, `jolt.js`, `manifest.json`, `popup.html`, `popup.js`) that suggest it is a web-related application or a browser extension. Further details on its specific functionality would require examining its code.
